@@ -1,6 +1,6 @@
 ### Hi, my name is Christoffer 👋🏻
 
-I'm a tech professional that loves innovation and technology. Most of the time you see me either writing code or planning some new feature. I'm a generalist when it comes to programming languages so I have worked with quite a few languages during my career. Currently my favorite language is TypeScript. I really enjoy working with modern web technologies such as React and GraphQL.
+I'm a tech professional that loves innovation and technology. Most of the time you see me either writing code or planning some new feature. I'm a generalist when it comes to programming languages so I have worked with quite a few languages during my career. Currently my favorite language is TypeScript. I really enjoy to work with modern web technologies such as React and GraphQL.
 
 As my day job, I work as a technology evangelist at Compile, where we develop web and mobile applications for various clients. At Compile we all share a passion for  sustainable software development and we build applications that are easy to work with and maintain. We are constantly looking for more experienced developers so feel free to reach out if you're looking for work in Finland.
 
