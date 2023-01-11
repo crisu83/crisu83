@@ -1,8 +1,10 @@
 ### Hi, my name is Christoffer 👋🏻
 
-I'm a tech professional that loves innovation and technology. Most of the time you see me either writing code or planning some new feature. I'm a generalist when it comes to programming languages so I have worked with quite a few languages during my career. Currently my favorite language is TypeScript. I really enjoy to work with modern web technologies such as React and GraphQL.
+I am a technology professional with 15 years of experience in software development. One of my greatest passions is to create software that is easy to understand and maintain using modern technologies. I am a proponent of Clean Code, Domain-Driven Design, and Extreme Programming.
 
-I’m a big fan of video games and my favorite drink is coffee.
+Over the past years, I thought myself different programming languages to broaden my understanding of programming. These languages include Go, Haskell, ReasonML, and Rust. I am a polyglot programmer who never wants to stop learning.
+
+In my free time, I like to do sports, watch Netflix, or spend time with my loved ones. My favorite drink is coffee, but sometimes I also enjoy a glass of red wine.
 
 ![Crisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisu83)
 
