@@ -1,12 +1,12 @@
 ### Hi, my name is Christoffer 👋🏻
 
-I am a technology professional with 15 years of experience in software development. One of my greatest passions is to create software that is easy to understand and maintain using modern technologies. I am a proponent of Clean Code, Domain-Driven Design, and Extreme Programming.
+I am a seasoned technology professional with 15 years of hands-on expertise in software development. My greatest passion lies in writing code and crafting user-friendly software using modern technologies.
 
-Over the past years, I thought myself different programming languages to broaden my understanding of programming. These languages include Go, Haskell, ReasonML, and Rust. I am a polyglot programmer who never wants to stop learning.
+I primarily work with TypeScript, Kotlin, and Rust; however, I continuously strive to learn new programming languages to expand my knowledge. I am a proponent of best practices such as Clean Code, Domain-Driven Design, and Extreme Programming.
 
-In my free time, I like to do sports, watch Netflix, or spend time with my loved ones. My favorite drink is coffee, but sometimes I also enjoy a glass of red wine.
+When not programming, I enjoy engaging in sports activities, unwinding with Netflix, and spending quality time with my family. While I prefer water as my go-to drink, I enjoy coffee in the morning and would not turn down a glass of good wine.
 
-![Crisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisu83)
+<!-- ![Crisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisu83) -->
 
 <!--
 **crisu83/crisu83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
